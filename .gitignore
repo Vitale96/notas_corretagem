@@ -1,0 +1,39 @@
+# 🐍 Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🌱 Ambientes virtuais (evita versionar pacotes instalados localmente)
+venv/
+.venv/
+env/
+.env/
+
+# 🧪 Arquivos temporários e de backup
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# 🧠 Checkpoints do Jupyter (caso use futuramente)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 🧰 Configurações locais do VSCode (evita conflitos entre devs)
+.vscode/
+
+# 💻 Arquivos específicos do Windows
+Thumbs.db
+desktop.ini
+ehthumbs.db
+Icon?
+*.lnk
+
+# 🧾 Arquivos de exemplo/histórico que não devem ser versionados
+dados/
+"dados"/
+"Arquivo histórico"/  # com acento agudo no "o"
+
+# 📄 Arquivos de saída comuns (caso o script gere relatórios)
+*.pdf
