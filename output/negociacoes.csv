@@ -1,217 +1,227 @@
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,10,33.28,332.8,D,TAESA,UNT     N2
-FRA,Compra,40,23.61,944.4,D,ISA ENERGIA,PN      N1
-VIS,Compra,100,23.61,2361.0,D,ISA ENERGIA,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,40.33,4033.0,D,BBSEGURIDADE,ON      NM
-FRA,Compra,60,40.34,2420.4,D,BBSEGURIDADE,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,36.7,3670.0,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,13.49,1349.0,D,SANTANDER BR,ON
-VIS,Compra,100,13.49,1349.0,D,SANTANDER BR,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,200,24.54,4908.0,D,TRAN PAULIST,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,48,26.9,1291.2,D,TRAN PAULIST,PN      N1
-VIS,Compra,100,27.0,2700.0,D,TRAN PAULIST,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,5,24.18,120.9,D,TRAN PAULIST,PN      N1
-FRA,Compra,10,13.44,134.4,D,COPASA,ON      NM
-FRA,Compra,9,16.44,147.96,D,BRADESCO,ON  EJ  N1
-FRA,Compra,40,16.42,656.8,D,BRADESCO,ON  EJ  N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,7,29.84,208.88,D,BRASIL,ON  ERJ NM
-FRA,Compra,2,18.95,37.9,D,BBSEGURIDADE,ON      NM
-FRA,Compra,10,29.88,298.8,D,BRASIL,ON  ERJ NM
-FRA,Compra,13,18.95,246.35,D,BBSEGURIDADE,ON      NM
-FRA,Compra,3,29.79,89.37,D,BRASIL,ON  ERJ NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,47.99,4799.0,D,TELEF BRASIL,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,19,36.11,686.09,D,BRASIL,ON      NM
-FRA,Compra,1,36.11,36.11,D,BRASIL,ON      NM
-FRA,Compra,10,36.11,361.1,D,BRASIL,ON      NM
-FRA,Compra,5,24.05,120.25,D,TRAN PAULIST,PN      N1
-FRA,Compra,5,24.0,120.0,D,TRAN PAULIST,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,30,27.51,825.3,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,45,24.94,1122.3,D,BRASIL,ON  EJ  NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,4,1.76,7.04,D,GETNET BR,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,14,29.0,406.0,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,25,25.7,642.5,D,TRAN PAULIST,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,33.03,3303.0,D,BBSEGURIDADE,ON      NM
-VIS,Compra,100,26.98,2698.0,D,TRAN PAULIST,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,36,26.25,945.0,D,BRASIL,ON      NM
-FRA,Compra,14,26.25,367.5,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,16,35.0,560.0,D,TAESA,UNT     N2
-FRA,Compra,34,35.0,1190.0,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,300,10.0,3000.0,D,AES BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,35.65,3565.0,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,10,12.9,129.0,D,COPASA,ON      NM
-FRA,Compra,8,41.48,331.84,D,TAESA,UNT     N2
-FRA,Compra,5,26.1,130.5,D,BBSEGURIDADE,ON      NM
-FRA,Compra,30,15.4,462.0,D,SANTANDER BR,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,25.18,2518.0,D,TRAN PAULIST,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,7,37.3,261.1,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,26.9,2690.0,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM
-VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM
-VIS,Compra,100,32.0,3200.0,D,BBSEGURIDADE,ON      NM
-VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM
-VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM
-VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,28,33.13,927.64,D,TAESA,UNT     N2
-FRA,Compra,2,33.13,66.26,D,TAESA,UNT     N2
-FRA,Compra,2,23.24,46.48,D,ISA ENERGIA,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,3,16.17,48.51,D,BRADESCO,ON  EJ  N1
-FRA,Compra,1,16.17,16.17,D,BRADESCO,ON  EJ  N1
-FRA,Compra,1,16.17,16.17,D,BRADESCO,ON  EJ  N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,30,26.85,805.5,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,50,35.5,1775.0,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,1.67,167.0,D,GETNET BR,PN
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,2,34.2,68.4,D,TAESA,UNT ED  N2
-FRA,Compra,48,34.2,1641.6,D,TAESA,UNT ED  N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,33.14,3314.0,D,BBSEGURIDADE,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,9.94,994.0,D,AES BRASIL,ON  ED  NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,1,16.19,16.19,D,BRADESCO,ON  EJ  N1
-FRA,Compra,17,16.19,275.23,D,BRADESCO,ON  EJ  N1
-FRA,Compra,12,16.19,194.28,D,BRADESCO,ON  EJ  N1
-FRA,Compra,59,16.19,955.21,D,BRADESCO,ON  EJ  N1
-VIS,Compra,100,16.1,1610.0,D,SANTANDER BR,PN
-FRA,Compra,1,16.19,16.19,D,BRADESCO,ON  EJ  N1
-FRA,Compra,24,41.62,998.88,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,31,22.78,706.18,D,ISA ENERGIA,PN  EJ  N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,15,15.62,234.3,D,BRADESCO,ON  EJ  N1
-FRA,Compra,7,33.8,236.6,D,BRASIL,ON      NM
-FRA,Compra,22,33.8,743.6,D,BRASIL,ON      NM
-FRA,Compra,1,33.8,33.8,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,10,14.0,140.0,D,BRADESCO,ON  EJ  N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,200,25.95,5190.0,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,33,33.44,1103.52,D,TAESA,UNT     N2
-VIS,Compra,100,5.78,578.0,D,WIZ CO,ON      NM
-VIS,Compra,100,5.78,578.0,D,WIZ CO,ON      NM
-VIS,Compra,100,5.78,578.0,D,WIZ CO,ON      NM
-FRA,Compra,60,25.19,1511.4,D,TRAN PAULIST,PN      N1
-VIS,Compra,200,11.34,2268.0,D,BRADESCO,ON      N1
-FRA,Compra,1,33.44,33.44,D,TAESA,UNT     N2
-FRA,Compra,16,33.44,535.04,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,300,28.07,8421.0,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,25.78,2578.0,D,BRASIL,ON      NM
-VIS,Compra,200,25.75,5150.0,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,10,15.6,156.0,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,4,14.0,56.0,D,SANTANDER BR,ON
-FRA,Compra,66,14.0,924.0,D,SANTANDER BR,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,26.45,2645.0,D,TRAN PAULIST,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,10,12.58,125.8,D,COPASA,ON      NM
-FRA,Compra,6,35.48,212.88,D,BRASIL,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,12.99,1299.0,D,BRADESCO,ON      N1
-FRA,Compra,50,38.08,1904.0,D,TAESA,UNT EDJ N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,7.35,735.0,D,WIZ S.A.,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,30,12.0,360.0,D,COPASA,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,6.69,669.0,D,WIZ S.A.,ON      NM
-VIS,Compra,100,15.65,1565.0,D,COPASA,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,400,28.5,11400.0,D,BBSEGURIDADE,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,200,13.72,2744.0,D,SANTANDER BR,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,60,23.46,1407.6,D,ISA ENERGIA,PN  EJ  N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,40,19.47,778.8,D,COPASA,ON      NM
-VIS,Compra,200,10.96,2192.0,D,BRADESCO,ON  EJ  N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,81,18.8,1522.8,D,SANTANDER BR,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,200,36.17,7234.0,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,45.2,4520.0,D,TELEF BRASIL,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,41,26.0,1066.0,D,TRAN PAULIST,PN      N1
-FRA,Compra,11,26.0,286.0,D,TRAN PAULIST,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,19,18.82,357.58,D,SANTANDER BR,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,1,1.76,1.76,D,GETNET BR,ON
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,25.0,2500.0,D,BBSEGURIDADE,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,4,16.7,66.8,D,BRADESCO,ON      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,35,38.5,1347.5,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,6,17.89,107.34,D,BRADESCO,ON      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,77,9.88,760.76,D,AES BRASIL,ON      NM
-VIS,Compra,100,11.75,1175.0,D,BRADESCO,ON      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,28.0,2800.0,D,BBSEGURIDADE,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,17,23.99,407.83,D,ISA ENERGIA,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,50,36.4,1820.0,D,TAESA,UNT     N2
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,20,31.31,626.2,D,BBSEGURIDADE,ON      NM
-VIS,Compra,100,31.35,3135.0,D,BBSEGURIDADE,ON      NM
-FRA,Compra,10,31.31,313.1,D,BBSEGURIDADE,ON      NM
-FRA,Compra,50,31.31,1565.5,D,BBSEGURIDADE,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,1,27.83,27.83,D,BRASIL,ON      NM
-FRA,Compra,52,27.83,1447.16,D,BRASIL,ON      NM
-VIS,Compra,100,24.0,2400.0,D,ISA ENERGIA,PN      N1
-FRA,Compra,22,27.83,612.26,D,BRASIL,ON      NM
-FRA,Compra,50,24.01,1200.5,D,ISA ENERGIA,PN      N1
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-VIS,Compra,100,17.3,1730.0,D,COPASA,ON      NM
-Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo
-FRA,Compra,20,39.2,784.0,D,TAESA,UNT     N2
-FRA,Compra,5,39.2,196.0,D,TAESA,UNT     N2
-FRA,Compra,1,39.2,39.2,D,TAESA,UNT     N2
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,10,33.28,332.8,D,TAESA,UNT     N2,11/03/2025,INTER DTVM
+FRA,Compra,40,23.61,944.4,D,ISA ENERGIA,PN      N1,11/03/2025,INTER DTVM
+VIS,Compra,100,23.61,2361.0,D,ISA ENERGIA,PN      N1,11/03/2025,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,40.33,4033.0,D,BBSEGURIDADE,ON      NM,28/03/2025,INTER DTVM
+FRA,Compra,60,40.34,2420.4,D,BBSEGURIDADE,ON      NM,28/03/2025,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VISTA,Compra,100,27.77,2777.0,D,BBAS3,ON,10/03/2025,BTG
+VISTA,Compra,100,23.59,2359.0,D,ISAE4,PN,10/03/2025,BTG
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VISTA,Compra,4,12.04,48.16,D,BBDC3F,ON,05/08/2024,BTG
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VISTA,Compra,1,11.39,11.39,D,BBDC3F,ON,28/11/2024,BTG
+VISTA,Compra,20,11.39,227.8,D,BBDC3F,ON,28/11/2024,BTG
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VISTA,Compra,4,28.69,114.76,D,BBAS3F,ON,28/03/2025,BTG
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,36.7,3670.0,D,TAESA,UNT     N2,01/02/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,13.49,1349.0,D,SANTANDER BR,ON,01/02/2024,INTER DTVM
+VIS,Compra,100,13.49,1349.0,D,SANTANDER BR,ON,01/02/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,200,24.54,4908.0,D,TRAN PAULIST,PN      N1,01/08/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,48,26.9,1291.2,D,TRAN PAULIST,PN      N1,02/06/2021,INTER DTVM
+VIS,Compra,100,27.0,2700.0,D,TRAN PAULIST,PN      N1,02/06/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,5,24.18,120.9,D,TRAN PAULIST,PN      N1,02/06/2022,INTER DTVM
+FRA,Compra,10,13.44,134.4,D,COPASA,ON      NM,02/06/2022,INTER DTVM
+FRA,Compra,9,16.44,147.96,D,BRADESCO,ON  EJ  N1,02/06/2022,INTER DTVM
+FRA,Compra,40,16.42,656.8,D,BRADESCO,ON  EJ  N1,02/06/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,7,29.84,208.88,D,BRASIL,ON  ERJ NM,02/09/2021,INTER DTVM
+FRA,Compra,2,18.95,37.9,D,BBSEGURIDADE,ON      NM,02/09/2021,INTER DTVM
+FRA,Compra,10,29.88,298.8,D,BRASIL,ON  ERJ NM,02/09/2021,INTER DTVM
+FRA,Compra,13,18.95,246.35,D,BBSEGURIDADE,ON      NM,02/09/2021,INTER DTVM
+FRA,Compra,3,29.79,89.37,D,BRASIL,ON  ERJ NM,02/09/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,47.99,4799.0,D,TELEF BRASIL,ON,03/02/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,19,36.11,686.09,D,BRASIL,ON      NM,03/06/2022,INTER DTVM
+FRA,Compra,1,36.11,36.11,D,BRASIL,ON      NM,03/06/2022,INTER DTVM
+FRA,Compra,10,36.11,361.1,D,BRASIL,ON      NM,03/06/2022,INTER DTVM
+FRA,Compra,5,24.05,120.25,D,TRAN PAULIST,PN      N1,03/06/2022,INTER DTVM
+FRA,Compra,5,24.0,120.0,D,TRAN PAULIST,PN      N1,03/06/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,30,27.51,825.3,D,BRASIL,ON      NM,04/02/2025,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,45,24.94,1122.3,D,BRASIL,ON  EJ  NM,04/12/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,4,1.76,7.04,D,GETNET BR,ON,05/04/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,14,29.0,406.0,D,BRASIL,ON      NM,05/05/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,25,25.7,642.5,D,TRAN PAULIST,PN      N1,05/07/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,33.03,3303.0,D,BBSEGURIDADE,ON      NM,05/07/2024,INTER DTVM
+VIS,Compra,100,26.98,2698.0,D,TRAN PAULIST,PN      N1,05/07/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,36,26.25,945.0,D,BRASIL,ON      NM,05/08/2024,INTER DTVM
+FRA,Compra,14,26.25,367.5,D,BRASIL,ON      NM,05/08/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,16,35.0,560.0,D,TAESA,UNT     N2,06/01/2023,INTER DTVM
+FRA,Compra,34,35.0,1190.0,D,TAESA,UNT     N2,06/01/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,300,10.0,3000.0,D,AES BRASIL,ON      NM,06/02/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,35.65,3565.0,D,TAESA,UNT     N2,06/03/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,10,12.9,129.0,D,COPASA,ON      NM,06/06/2022,INTER DTVM
+FRA,Compra,8,41.48,331.84,D,TAESA,UNT     N2,06/06/2022,INTER DTVM
+FRA,Compra,5,26.1,130.5,D,BBSEGURIDADE,ON      NM,06/06/2022,INTER DTVM
+FRA,Compra,30,15.4,462.0,D,SANTANDER BR,ON,06/06/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,25.18,2518.0,D,TRAN PAULIST,PN      N1,06/09/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,7,37.3,261.1,D,TAESA,UNT     N2,07/07/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,26.9,2690.0,D,BRASIL,ON      NM,07/10/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM,07/11/2023,INTER DTVM
+VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM,07/11/2023,INTER DTVM
+VIS,Compra,100,32.0,3200.0,D,BBSEGURIDADE,ON      NM,07/11/2023,INTER DTVM
+VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM,07/11/2023,INTER DTVM
+VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM,07/11/2023,INTER DTVM
+VIS,Compra,100,10.22,1022.0,D,AES BRASIL,ON      NM,07/11/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,28,33.13,927.64,D,TAESA,UNT     N2,08/01/2025,INTER DTVM
+FRA,Compra,2,33.13,66.26,D,TAESA,UNT     N2,08/01/2025,INTER DTVM
+FRA,Compra,2,23.24,46.48,D,ISA ENERGIA,PN      N1,08/01/2025,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,3,16.17,48.51,D,BRADESCO,ON  EJ  N1,08/06/2022,INTER DTVM
+FRA,Compra,1,16.17,16.17,D,BRADESCO,ON  EJ  N1,08/06/2022,INTER DTVM
+FRA,Compra,1,16.17,16.17,D,BRADESCO,ON  EJ  N1,08/06/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,30,26.85,805.5,D,BRASIL,ON      NM,08/10/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,50,35.5,1775.0,D,TAESA,UNT     N2,09/02/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,1.67,167.0,D,GETNET BR,PN,09/05/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,2,34.2,68.4,D,TAESA,UNT ED  N2,11/01/2023,INTER DTVM
+FRA,Compra,48,34.2,1641.6,D,TAESA,UNT ED  N2,11/01/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,33.14,3314.0,D,BBSEGURIDADE,ON      NM,11/01/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,9.94,994.0,D,AES BRASIL,ON  ED  NM,11/08/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,1,16.19,16.19,D,BRADESCO,ON  EJ  N1,12/09/2022,INTER DTVM
+FRA,Compra,17,16.19,275.23,D,BRADESCO,ON  EJ  N1,12/09/2022,INTER DTVM
+FRA,Compra,12,16.19,194.28,D,BRADESCO,ON  EJ  N1,12/09/2022,INTER DTVM
+FRA,Compra,59,16.19,955.21,D,BRADESCO,ON  EJ  N1,12/09/2022,INTER DTVM
+VIS,Compra,100,16.1,1610.0,D,SANTANDER BR,PN,12/09/2022,INTER DTVM
+FRA,Compra,1,16.19,16.19,D,BRADESCO,ON  EJ  N1,12/09/2022,INTER DTVM
+FRA,Compra,24,41.62,998.88,D,TAESA,UNT     N2,12/09/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,31,22.78,706.18,D,ISA ENERGIA,PN  EJ  N1,13/01/2025,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,15,15.62,234.3,D,BRADESCO,ON  EJ  N1,13/06/2022,INTER DTVM
+FRA,Compra,7,33.8,236.6,D,BRASIL,ON      NM,13/06/2022,INTER DTVM
+FRA,Compra,22,33.8,743.6,D,BRASIL,ON      NM,13/06/2022,INTER DTVM
+FRA,Compra,1,33.8,33.8,D,BRASIL,ON      NM,13/06/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,10,14.0,140.0,D,BRADESCO,ON  EJ  N1,13/07/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,200,25.95,5190.0,D,BRASIL,ON      NM,13/11/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,33,33.44,1103.52,D,TAESA,UNT     N2,14/06/2024,INTER DTVM
+VIS,Compra,100,5.78,578.0,D,WIZ CO,ON      NM,14/06/2024,INTER DTVM
+VIS,Compra,100,5.78,578.0,D,WIZ CO,ON      NM,14/06/2024,INTER DTVM
+VIS,Compra,100,5.78,578.0,D,WIZ CO,ON      NM,14/06/2024,INTER DTVM
+FRA,Compra,60,25.19,1511.4,D,TRAN PAULIST,PN      N1,14/06/2024,INTER DTVM
+VIS,Compra,200,11.34,2268.0,D,BRADESCO,ON      N1,14/06/2024,INTER DTVM
+FRA,Compra,1,33.44,33.44,D,TAESA,UNT     N2,14/06/2024,INTER DTVM
+FRA,Compra,16,33.44,535.04,D,TAESA,UNT     N2,14/06/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,300,28.07,8421.0,D,TAESA,UNT     N2,14/10/2020,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,25.78,2578.0,D,BRASIL,ON      NM,14/11/2024,INTER DTVM
+VIS,Compra,200,25.75,5150.0,D,BRASIL,ON      NM,14/11/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,10,15.6,156.0,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+FRA,Compra,1,15.55,15.55,D,BRADESCO,ON      N1,15/06/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,4,14.0,56.0,D,SANTANDER BR,ON,16/01/2023,INTER DTVM
+FRA,Compra,66,14.0,924.0,D,SANTANDER BR,ON,16/01/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,26.45,2645.0,D,TRAN PAULIST,PN      N1,16/01/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,10,12.58,125.8,D,COPASA,ON      NM,16/05/2022,INTER DTVM
+FRA,Compra,6,35.48,212.88,D,BRASIL,ON      NM,16/05/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,12.99,1299.0,D,BRADESCO,ON      N1,16/11/2022,INTER DTVM
+FRA,Compra,50,38.08,1904.0,D,TAESA,UNT EDJ N2,16/11/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,7.35,735.0,D,WIZ S.A.,ON      NM,17/02/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,30,12.0,360.0,D,COPASA,ON      NM,17/06/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,6.69,669.0,D,WIZ S.A.,ON      NM,18/02/2021,INTER DTVM
+VIS,Compra,100,15.65,1565.0,D,COPASA,ON      NM,18/02/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,400,28.5,11400.0,D,BBSEGURIDADE,ON      NM,18/11/2020,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,200,13.72,2744.0,D,SANTANDER BR,ON,19/02/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,60,23.46,1407.6,D,ISA ENERGIA,PN  EJ  N1,19/02/2025,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,40,19.47,778.8,D,COPASA,ON      NM,19/06/2024,INTER DTVM
+VIS,Compra,200,10.96,2192.0,D,BRADESCO,ON  EJ  N1,19/06/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,81,18.8,1522.8,D,SANTANDER BR,ON,19/07/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,200,36.17,7234.0,D,TAESA,UNT     N2,19/07/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,45.2,4520.0,D,TELEF BRASIL,ON,22/02/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,41,26.0,1066.0,D,TRAN PAULIST,PN      N1,22/06/2021,INTER DTVM
+FRA,Compra,11,26.0,286.0,D,TRAN PAULIST,PN      N1,22/06/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,19,18.82,357.58,D,SANTANDER BR,ON,23/03/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,1,1.76,1.76,D,GETNET BR,ON,23/03/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,25.0,2500.0,D,BBSEGURIDADE,ON      NM,23/06/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,4,16.7,66.8,D,BRADESCO,ON      N1,24/02/2022,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,35,38.5,1347.5,D,TAESA,UNT     N2,24/06/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,6,17.89,107.34,D,BRADESCO,ON      N1,25/10/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,77,9.88,760.76,D,AES BRASIL,ON      NM,27/02/2023,INTER DTVM
+VIS,Compra,100,11.75,1175.0,D,BRADESCO,ON      N1,27/02/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,28.0,2800.0,D,BBSEGURIDADE,ON      NM,28/01/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,17,23.99,407.83,D,ISA ENERGIA,PN      N1,28/11/2024,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,50,36.4,1820.0,D,TAESA,UNT     N2,30/01/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,20,31.31,626.2,D,BBSEGURIDADE,ON      NM,30/11/2023,INTER DTVM
+VIS,Compra,100,31.35,3135.0,D,BBSEGURIDADE,ON      NM,30/11/2023,INTER DTVM
+FRA,Compra,10,31.31,313.1,D,BBSEGURIDADE,ON      NM,30/11/2023,INTER DTVM
+FRA,Compra,50,31.31,1565.5,D,BBSEGURIDADE,ON      NM,30/11/2023,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,1,27.83,27.83,D,BRASIL,ON      NM,31/01/2025,INTER DTVM
+FRA,Compra,52,27.83,1447.16,D,BRASIL,ON      NM,31/01/2025,INTER DTVM
+VIS,Compra,100,24.0,2400.0,D,ISA ENERGIA,PN      N1,31/01/2025,INTER DTVM
+FRA,Compra,22,27.83,612.26,D,BRASIL,ON      NM,31/01/2025,INTER DTVM
+FRA,Compra,50,24.01,1200.5,D,ISA ENERGIA,PN      N1,31/01/2025,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+VIS,Compra,100,17.3,1730.0,D,COPASA,ON      NM,31/05/2021,INTER DTVM
+Negociação,C/V,Quantidade,Preço,Valor,D/C,Ativo,Tipo,Data,Corretora
+FRA,Compra,20,39.2,784.0,D,TAESA,UNT     N2,31/10/2022,INTER DTVM
+FRA,Compra,5,39.2,196.0,D,TAESA,UNT     N2,31/10/2022,INTER DTVM
+FRA,Compra,1,39.2,39.2,D,TAESA,UNT     N2,31/10/2022,INTER DTVM

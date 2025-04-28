@@ -25,7 +25,7 @@ def normalizar_linhas(df):
     df.drop(columns=["Prazo", "Obs (*)"], inplace=True, errors="ignore")
 
     # 6. Reordenar colunas, se desejar
-    colunas_ordenadas = ["Negociação", "C/V", "Quantidade", "Preço", "Valor", "D/C", "Ativo", "Tipo"]
+    colunas_ordenadas = ["Negociação", "C/V", "Quantidade", "Preço", "Valor", "D/C", "Ativo", "Tipo","Data","Corretora"]
     df = df[colunas_ordenadas]
 
     # Retornar como lista de dicionários
